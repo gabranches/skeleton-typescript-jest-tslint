@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^24.0.23",
-    "concurrently": "^5.0.1",
+    "concurrently": "^5.1.0",
     "jest": "^24.9.0",
     "nodemon": "^2.0.2",
     "tslint": "^5.20.1",
